@@ -1,4 +1,4 @@
-# programacion# Guardians of the Ancient Kingdom
+# Guardians of the Ancient Kingdom
 
 Sistema de combate por turnos desarrollado en Python para practicar programación orientada a objetos.
 
